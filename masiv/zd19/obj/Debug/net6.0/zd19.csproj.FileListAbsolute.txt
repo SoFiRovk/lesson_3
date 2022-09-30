@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Lesson_3 masiv(2)\masiv\zd19\bin\Debug\net6.0\zd19.exe
+C:\Users\User\Desktop\Lesson_3 masiv(2)\masiv\zd19\bin\Debug\net6.0\zd19.deps.json
+C:\Users\User\Desktop\Lesson_3 masiv(2)\masiv\zd19\bin\Debug\net6.0\zd19.runtimeconfig.json
+C:\Users\User\Desktop\Lesson_3 masiv(2)\masiv\zd19\bin\Debug\net6.0\zd19.dll
+C:\Users\User\Desktop\Lesson_3 masiv(2)\masiv\zd19\bin\Debug\net6.0\zd19.pdb
+C:\Users\User\Desktop\Lesson_3 masiv(2)\masiv\zd19\obj\Debug\net6.0\zd19.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Lesson_3 masiv(2)\masiv\zd19\obj\Debug\net6.0\zd19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Lesson_3 masiv(2)\masiv\zd19\obj\Debug\net6.0\zd19.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Lesson_3 masiv(2)\masiv\zd19\obj\Debug\net6.0\zd19.AssemblyInfo.cs
+C:\Users\User\Desktop\Lesson_3 masiv(2)\masiv\zd19\obj\Debug\net6.0\zd19.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lesson_3 masiv(2)\masiv\zd19\obj\Debug\net6.0\zd19.dll
+C:\Users\User\Desktop\Lesson_3 masiv(2)\masiv\zd19\obj\Debug\net6.0\refint\zd19.dll
+C:\Users\User\Desktop\Lesson_3 masiv(2)\masiv\zd19\obj\Debug\net6.0\zd19.pdb
+C:\Users\User\Desktop\Lesson_3 masiv(2)\masiv\zd19\obj\Debug\net6.0\zd19.genruntimeconfig.cache
+C:\Users\User\Desktop\Lesson_3 masiv(2)\masiv\zd19\obj\Debug\net6.0\ref\zd19.dll
